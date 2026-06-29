@@ -1,0 +1,134 @@
+{
+  "tasks": [
+    {
+      "id": "task_1",
+      "title": "Email Late Physics Lab Report to Prof. Vance",
+      "urgency": 9,
+      "cognitiveWeight": "High",
+      "deadline": "2026-06-27T23:59:00.000Z",
+      "context": "Missed the deadline yesterday due to a power outage. Prof agreed to accept for partial credit if sent before midnight.",
+      "channel": "WhatsApp",
+      "whyImportant": "I need to pass Physics to keep my university scholarship.",
+      "obstacle": "I get overwhelmed writing apology emails and procrastinate until it's too late.",
+      "status": "Pending",
+      "createdAt": "2026-06-26T10:00:00.000Z",
+      "updatedAt": "2026-06-26T10:00:00.000Z",
+      "postponeCount": 0,
+      "workspaceType": "communication",
+      "workspaceDraft": "Dear Professor Vance,\n\nI apologize for the delay in submitting my Physics Lab Report. As mentioned earlier, my area experienced a severe power outage yesterday which prevented me from completing and compiling the data in time.\n\nI have attached the complete report here for your review. I deeply appreciate your willingness to accept it for partial credit.\n\nSincerely,\nAlex Johnson",
+      "motivationNudge": "You mentioned this assignment helps you keep your scholarship. You are only 45 seconds away from sending it and ending the anxiety. Let's execute!"
+    },
+    {
+      "id": "task_2",
+      "title": "Review Ancient Mesopotamia & Nile Civilization for Midterm",
+      "urgency": 8,
+      "cognitiveWeight": "High",
+      "deadline": "2026-07-03T14:00:00.000Z",
+      "context": "Need to memorize key timelines, societal systems, and river irrigation strategies for units 1-4.",
+      "channel": "Call",
+      "whyImportant": "I want to graduate with honors and maintain my 3.8 GPA.",
+      "obstacle": "I keep scrolling Instagram because ancient history feels dense and dry.",
+      "status": "Pending",
+      "createdAt": "2026-06-26T11:00:00.000Z",
+      "updatedAt": "2026-06-26T11:00:00.000Z",
+      "postponeCount": 0,
+      "workspaceType": "cognitive",
+      "frameworkPoints": [
+        "Mesopotamia: Focus on Tigris/Euphrates flooding unpredictability, Hammurabi's Code (legal unification), and Cuneiform.",
+        "Nile Civilization: Predictable flooding cycles, highly centralized pharaonic administration, and monumental construction techniques.",
+        "Comparative Angle: Contrast decentralized Mesopotamian city-states with unified, secure Egyptian kingdoms."
+      ],
+      "studyCards": [
+        {
+          "front": "What is Hammurabi's Code and why is it significant?",
+          "back": "The earliest known comprehensive legal code, written in cuneiform. It unified Mesopotamian city-states under a standardized system of retributive justice ('eye for an eye')."
+        },
+        {
+          "front": "How did Nile flooding shape Egyptian administration?",
+          "back": "Predictable flooding allowed for highly planned crop seasons. This led to a large, centralized bureaucracy tracking land surveys, taxation, and large state granaries."
+        },
+        {
+          "front": "Contrast Tigris/Euphrates vs Nile water control.",
+          "back": "Mesopotamia: Violent, unpredictable flooding required aggressive canal and dyke maintenance. Egypt: Gentle, predictable seasonal swelling led to natural basin irrigation systems."
+        }
+      ],
+      "motivationNudge": "You mentioned Instagram distracts you. Set a timer for just 15 minutes of flashcards. Instagram will still be there, but your GPA will be safer."
+    },
+    {
+      "id": "task_3",
+      "title": "Restock Empty Fridge (Healthy Groceries)",
+      "urgency": 4,
+      "cognitiveWeight": "Low",
+      "deadline": "2026-06-28T18:00:00.000Z",
+      "context": "Need high-protein staples: Greek yogurt, chicken breasts, eggs, spinach, and avocados. Avoid processed snacks.",
+      "channel": "WhatsApp",
+      "whyImportant": "I promised myself I would eat clean and gain energy.",
+      "obstacle": "I'm usually too tired after work and order greasy takeout.",
+      "status": "Pending",
+      "createdAt": "2026-06-26T12:00:00.000Z",
+      "updatedAt": "2026-06-26T12:00:00.000Z",
+      "postponeCount": 0,
+      "workspaceType": "communication",
+      "workspaceDraft": "Healthy Grocery Order:\n- 2x Greek Yogurt (unsweetened)\n- 1.5kg Organic Chicken Breasts\n- 2 Dozen Free-Range Eggs\n- Fresh Spinach & Kale\n- 4x Avocados\n- Steel-cut Oats",
+      "motivationNudge": "Getting takeout is easy, but cooking healthy meals will make future-you feel energetic and clear-headed. Your fridge is waiting!"
+    }
+  ],
+  "habits": [
+    {
+      "id": "habit_1",
+      "title": "Drink 3L of water",
+      "completedToday": true,
+      "streak": 5,
+      "history": {
+        "2026-06-26": true,
+        "2026-06-25": true,
+        "2026-06-24": true,
+        "2026-06-23": true,
+        "2026-06-22": true
+      }
+    },
+    {
+      "id": "habit_2",
+      "title": "30-min morning workout",
+      "completedToday": true,
+      "streak": 3,
+      "history": {
+        "2026-06-26": false,
+        "2026-06-25": true,
+        "2026-06-24": true,
+        "2026-06-23": false,
+        "2026-06-27": true
+      }
+    },
+    {
+      "id": "habit_3",
+      "title": "Limit screen time after 10 PM",
+      "completedToday": false,
+      "streak": 0,
+      "history": {
+        "2026-06-26": false,
+        "2026-06-25": false,
+        "2026-06-24": true,
+        "2026-06-27": false
+      }
+    }
+  ],
+  "motivationState": {
+    "currentStyle": "encouraging",
+    "history": []
+  },
+  "whatsappMessages": [
+    {
+      "id": "wa_msg_1",
+      "sender": "pilot",
+      "text": "Your Physics Lab Report is due in about 6 hours.\n\nI've already prepared an email draft for Professor Vance, so you're almost done.\n\nWant to review it now?",
+      "timestamp": "2026-06-27T18:00:00.000Z",
+      "quickActions": [
+        "Mark Completed",
+        "Review AI Workspace Draft",
+        "Delay 1 Hour"
+      ]
+    }
+  ],
+  "lastVocalSyncAt": "2026-06-27T17:18:55.129Z"
+}

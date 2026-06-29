@@ -1,0 +1,6 @@
+{
+  "name": "IGNITE",
+  "description": "Turn intention into action. IGNITE eliminates the friction of starting by pre-generating drafts, study blueprints, and flashcards so you can execute immediately.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
